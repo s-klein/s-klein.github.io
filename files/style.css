@@ -1,0 +1,13 @@
+body {
+  padding-left: 5em;
+  padding-right: 10em;
+  font-family: palatino;
+  background-color: #ffffff;
+  /* other colors i've used: #e6eff4, #eee7db; */
+ /* A:link { color: #004d79} /* /* link, grey blue */
+  A:link { color : #007386} /*  */
+  A:hover { color: #38b6aa; }  /* hover, lt teal */
+  /* A:visited { color: #63375c} */
+  A:visited {color : #BF2895}
+  /* .header-style {color: #1a5254} */
+}
